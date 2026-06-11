@@ -24,7 +24,7 @@ Below are the SQL queries used to perform the analysis on the Zepto dataset:
 
 ![Top 3 Discounted Products](Query%209.png)
 
-![Pareto Analysis](query10.png)
+![Pareto Analysis](Query%2010%20%2C2.png)
 
 ![Pareto Classification Analysis](Query%2010%20,2.png)
 
