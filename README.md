@@ -8,20 +8,20 @@ Below are the SQL queries used to perform the analysis on the Zepto dataset:
 
 ![KPI Summary](Query%201.png)
 
-![Category Performance](Query%202.jpg)
+![Category Performance](Query%202.png)
 
-![Out of Stock Analysis](Query%203.jpg)
+![Out of Stock Analysis](Query%203.png)
 
-![Top 10 Most Expensive Products](Query%204.jpg)
+![Top 10 Most Expensive Products](Query%204.png)
 
-![Total Warehouse Inventory Valuation](Query%205.jpg)
+![Total Warehouse Inventory Valuation](Query%205.png)
 
-![Normalizing Cost](Query%206.jpg)
+![Normalizing Cost](Query%206.png)
 
-![Product Price Tier Segmentation](Query%207.jpg)
+![Product Price Tier Segmentation](Query%207.png)
 
-![Niche and Keyword Analysis](Query%208.jpg)
+![Niche and Keyword Analysis](Query%208.png)
 
-![Top 3 Discounted Products](Query%209.jpg)
+![Top 3 Discounted Products](Query%209.png)
 
 ![Pareto Classification Analysis](Query%2010%20,2.png)
