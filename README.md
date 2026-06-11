@@ -16,7 +16,7 @@ Below are the SQL queries used to perform the analysis on the Zepto dataset:
 
 ![Total Warehouse Inventory Valuation](Query%205.png)
 
-![Normalization Analysis](query_06.png)
+![Normalization Analysis](Query%206.png)
 
 ![Product Price Tier Segmentation](Query%207.png)
 
